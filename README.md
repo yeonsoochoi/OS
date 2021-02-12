@@ -1,6 +1,6 @@
 # OS_practic project
 
-Look at the Wiki to see the detail</br>
+Look at the Wiki to see the detail</br></br>
 
 [project01_Scheduler][proj1id]
 
@@ -9,7 +9,7 @@ Look at the Wiki to see the detail</br>
 
 [project02_Advanced process management][proj2id]
 
-[proj2id]: https://github.com/yeonsoochoi/OS/wiki/project02_Advanced_process_management "Go proj02"
+[proj2id]: https://github.com/yeonsoochoi/OS/wiki/project02_advanced-process-management "Go proj02"
 
 
 [project03_Users][proj1id]
